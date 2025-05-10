@@ -28,7 +28,7 @@
                     <input 
                         type="email" 
                         id="email"
-                        class="w-full  border border-slate-600 rounded-lg px-4 py-3 text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        class="w-full  border border-slate-600 rounded-lg px-4 py-3 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                         placeholder="email..."
                         name="email"
                         value="<?= htmlspecialchars($email) ?>"
@@ -41,7 +41,7 @@
                     <input 
                         type="password" 
                         id="password"
-                        class="w-full border border-slate-600 rounded-lg px-4 py-3 text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                        class="w-full border border-slate-600 rounded-lg px-4 py-3  placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                         placeholder="••••••••"
                         name="password"
                     />

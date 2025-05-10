@@ -1,9 +1,8 @@
 <!-- Sidebar Futuriste Améliorée -->
-<aside class="glass-effect backdrop-blur-lg bg-gray-900/80 w-72 min-h-screen p-6 space-y-8 fixed h-full border-r border-gray-700/30 z-50">
+<aside class="glass-effect b w-72 min-h-screen p-6 space-y-8 fixed h-full border-r border-gray-700/30 z-50">
     <!-- Logo -->
     <div class="flex items-center gap-3 pb-6 border-b border-gray-700/30">
         <div class="p-2 bg-gradient-to-br from-[#b31822] to-orange-600 rounded-xl">
-            <i class="ri-school-line text-2xl text-white"></i>
         </div>
         <h2 class="text-xl font-bold bg-gradient-to-r from-[#b31822] to-orange-600 bg-clip-text text-transparent">
             ECOLE 221

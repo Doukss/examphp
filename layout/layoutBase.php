@@ -12,7 +12,7 @@
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     
 </head>
-<body class="bg-gray-700 text-gray-100">
+<body class="bg-gray-200 text-gray-100">
     <div class="min-h-screen flex">
          <?php require_once ROOT_PATH . "/views/components/sidebar.php"; ?>
           <!-- Contenu Principal -->
